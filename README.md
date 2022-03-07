@@ -1,5 +1,5 @@
 # vue-manage
-
+面包屑功能文字部分存在部分显示问题
 ## Project setup
 ```
 npm install
